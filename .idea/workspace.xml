@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="31c6e454-a496-4178-a25b-197c369338ac" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/js/digicert.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/deployment.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/deployment.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/css/mycss.01.css" beforeDir="false" afterPath="$PROJECT_DIR$/css/mycss.02.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
       <workItem from="1649683443828" duration="12000" />
       <workItem from="1649683461574" duration="2053000" />
       <workItem from="1649765194973" duration="3000" />
-      <workItem from="1649765457872" duration="1270000" />
+      <workItem from="1649765457872" duration="1806000" />
     </task>
     <task id="LOCAL-00001" summary="aa">
       <created>1649685350148</created>
@@ -84,7 +83,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649766300733</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="aa">
+      <created>1649767161905</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649767161905</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
